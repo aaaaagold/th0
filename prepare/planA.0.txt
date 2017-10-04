@@ -1,0 +1,4 @@
+idv
+  ftMgr*1
+  idv_partial*n
+  fit=sum(ft*wi)
