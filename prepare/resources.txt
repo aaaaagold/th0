@@ -1,0 +1,19 @@
+nips
+	https://nips.cc/
+aaai
+	https://www.aaai.org/
+ijcai
+	https://ijcai-17.org/
+icml
+	https://icml.cc/
+	https://2017.icml.cc/
+	https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning
+ieee
+	nn
+		http://cis.ieee.org/neural-networks-tc.html
+	wcci
+		http://www.wcci2016.org/
+		http://oase.nutn.edu.tw/WCCI2016/short_description.htm
+	fuzz
+		https://www.fuzzieee2017.org/
+		https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=40558
