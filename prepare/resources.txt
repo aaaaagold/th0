@@ -4,6 +4,7 @@ aaai
 	https://www.aaai.org/
 ijcai
 	https://ijcai-17.org/
+	https://www.ijcai.org/
 icml
 	https://icml.cc/
 	https://2017.icml.cc/
