@@ -18,3 +18,7 @@ ieee
 	fuzz
 		https://www.fuzzieee2017.org/
 		https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=40558
+methods
+	Transfer learning
+		https://en.wikipedia.org/wiki/Transfer_learning
+		https://data-sci.info/2017/03/26/transfer-learning-machine-learnings-next-frontier/
